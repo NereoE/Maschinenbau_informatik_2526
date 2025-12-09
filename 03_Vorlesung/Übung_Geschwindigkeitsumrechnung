@@ -1,0 +1,3 @@
+geschwindigkeit_kmh = 72.0 # km/h
+geschwindigkeit_ms = geschwindigkeit_kmh / 3.6
+print("Die Geschwindigkeit beträgt:", geschwindigkeit_ms, "m/s")

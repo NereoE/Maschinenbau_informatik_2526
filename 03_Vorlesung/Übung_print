@@ -1,0 +1,6 @@
+print("Hallo")
+print(42)
+print(3.14)
+print("Der Wert ist", 42)
+print("A", "B", "C")
+print("Punkt", "Punkt", "Punkt", sep="")

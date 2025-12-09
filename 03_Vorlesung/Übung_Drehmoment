@@ -1,0 +1,5 @@
+kraft = 250 # N
+hebelarm = 0.5 # m
+drehmoment = kraft * hebelarm
+print("Das Drehmoment beträgt:", drehmoment, "Nm")
+
